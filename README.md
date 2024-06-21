@@ -8,14 +8,6 @@ Hand Gesture Detection: Uses computer vision techniques to identify and track th
 Drawing and Painting: Translates hand movements into strokes of varying color and thickness on a digital canvas.
 Character Recognition: Employs machine learning models to recognize characters drawn in the air and convert them into text.
 User Interface: A simple and interactive interface for users to start, pause, and clear their drawings.
-Technical Components:
-
-Computer Vision:
-Hand Detection: Utilizes OpenCV to detect the user’s hand using techniques such as background subtraction or contour detection.
-Hand Tracking: Tracks the movement of the detected hand to determine the drawing path.
-
-Machine Learning:
-Character Recognition: Uses pre-trained neural networks (e.g., convolutional neural networks) to recognize characters drawn by the user.
 
 Potential Challenges:
 Ensuring accurate hand detection and tracking in varying lighting conditions.
